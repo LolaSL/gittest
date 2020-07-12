@@ -1,14 +1,14 @@
 body {
     margin: 0 auto;
-    background: #555;
+    background: #737373;
 }
 h1 {
-    front-size: 50px;
+    font-style: 50px;
     padding: 25px;
-    border: double 5px #blue;
+    border: double 5px #e53238;
 }
 p {
-    front-size: 25px;
-    front-wight: bold;
-    color: #white;
+    font-style: 25px;
+    border-right: bold;
+    color: #330000;
 }
